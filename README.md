@@ -2,7 +2,7 @@
 Νικολαος Μιχαλουτσος (Αριθμος Μητρωου: 1115202000133)
 Ανδρεας Ταξιαρχης Κοκκορας (Αριθμος Μητρωου: 1115202000085)
 
-Compile with: g++ <program_name> OOP-Project.cpp roads.cpp roads.h
+Compile with: g++ -o <program_name> OOP-Project.cpp roads.cpp roads.h
 Execute with: ./<program_name> <arg1> <arg2> <arg3> <arg4>
 
 Executed with arguments such as: 
